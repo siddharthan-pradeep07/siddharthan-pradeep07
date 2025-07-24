@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siddharthan-pradeep07
-- 👀 I’m interested in  coding c#
-- Im currently learning unity
+- 👀 I’m interested in  coding, 3D designing and using AI
+- Im currently learning PCB design
 
 - thankyou
 
